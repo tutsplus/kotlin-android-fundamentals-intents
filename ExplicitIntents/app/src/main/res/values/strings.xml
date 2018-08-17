@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExplicitIntents</string>
+    <string name="send">Send Age</string>
+    <string name="current_year">Current Year</string>
+    <string name="birth_year">Your Birth Year</string>
+    <string name="your_age">Your age: 0</string>
+</resources>
